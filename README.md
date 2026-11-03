@@ -98,16 +98,8 @@ Executive-Sales-Dashboard/
 └── Analysis.png
 ```
 
-## How to Use
-
-1. Clone or download this repository.
-2. Download the `.pbix` file.
-3. Open the file using Microsoft Power BI Desktop.
-4. Explore the dashboard using the available slicers and visualizations.
-
 ## Author
 
 **Pranav Satalkar**
 
 Power BI | Data Analytics | Business Intelligence
-
