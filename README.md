@@ -94,10 +94,8 @@ Executive-Sales-Dashboard/
 │
 ├── README.md
 ├── Executive-Sales-Dashboard.pbix
-│
-└── images/
-    ├── executive-sales-overview.png
-    └── product-customer-analysis.png
+├── Overview.png
+└── Analysis.png
 ```
 
 ## How to Use
