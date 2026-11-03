@@ -10,13 +10,13 @@ The dashboard provides an executive-level overview of business performance throu
 
 ### Page 1: Executive Overview
 
-![Executive Sales Dashboard - Overview](images/Overview.png)
+![Executive Sales Dashboard - Overview](Overview.png)
 
 The overview page provides a consolidated view of sales performance, including revenue by country, revenue and profit trends, and regional performance.
 
 ### Page 2: Product & Customer Analysis
 
-![Executive Sales Dashboard - Product and Customer Analysis](images/Analysis.png)
+![Executive Sales Dashboard - Product and Customer Analysis](Analysis.png)
 
 The analysis page focuses on product performance, category contribution, customer types, and sales channel distribution.
 
