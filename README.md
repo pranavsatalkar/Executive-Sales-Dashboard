@@ -109,7 +109,7 @@ Executive-Sales-Dashboard/
 
 ## Author
 
-**Your Name**
+**Pranav Satalkar**
 
 Power BI | Data Analytics | Business Intelligence
 
